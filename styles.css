@@ -1,0 +1,63 @@
+
+body {
+    background-color: black;
+}
+
+.post {
+    background-color: white;
+    margin: auto;
+    width: 400px;
+    height: 600px;
+}
+
+#iconohtml {
+    width: 30px;
+    height: 30px;
+    padding-top: 20px;
+}
+
+/* .post-header > div > img {
+    width: 30px;
+    height: 30px;
+    margin-top: 13px;
+} */
+.post-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-left {
+    display: flex;
+}
+
+.header-rigth {
+    width: 20px;
+    padding-top: 30px;
+}
+
+.post-img>img {
+    width: 400px;
+    height: 350px;
+}
+
+.post-footer {
+    
+    margin: 5px;
+}
+
+#marca {
+    margin-left: 310px;
+}
+
+
+
+h4 {
+    margin-left: 10px;
+    margin-top: 8px;
+    margin-bottom: 4px;
+}
+
+.subtitulo {
+    margin-left: 10px;
+    margin: top 0px;
+}
